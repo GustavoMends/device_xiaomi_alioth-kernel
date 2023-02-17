@@ -1,0 +1,9 @@
+Module.symvers
+System.map
+abi.prop
+gspca_main.ko
+kernel-headers.tar.gz
+kernel-uapi-headers.tar.gz
+lcd.ko
+test_mappings.zip
+vmlinux
